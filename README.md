@@ -5,3 +5,4 @@ Resumo das habilidades aquiridas no DIO até o momento:
  - Versionamento de código utilizando o GIT
  - Criar meu primeiro portifolio vencedor
  - E criando o primeito projeto no GIT
+1º modulo foi ensinado os diferentes tipos de serviços oferecidos pela microsoft a demanda de configurações e os custos
